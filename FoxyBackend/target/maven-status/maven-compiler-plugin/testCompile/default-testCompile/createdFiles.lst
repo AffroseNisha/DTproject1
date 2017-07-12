@@ -1,0 +1,6 @@
+com\Foxy\FoxyBackend\AppTest.class
+com\Foxy\FoxyBackend\ProductTestCase.class
+com\Foxy\FoxyBackend\MyBeanTestCase.class
+com\Foxy\FoxyBackend\SupplierTestCase.class
+com\Foxy\FoxyBackend\CategoryTestCase.class
+com\Foxy\FoxyBackend\UserTestCase.class

@@ -1,0 +1,12 @@
+com\Foxy\FoxyBackend\model\UserRegister.class
+com\Foxy\FoxyBackend\model\Product.class
+com\Foxy\FoxyBackend\model\Supplier.class
+com\Foxy\FoxyBackend\config\DBConfig.class
+com\Foxy\FoxyBackend\model\Category.class
+com\Foxy\FoxyBackend\MyBean.class
+com\Foxy\FoxyBackend\App.class
+com\Foxy\FoxyBackend\dao\CategoryDAO.class
+com\Foxy\FoxyBackend\dao\UserDAO.class
+com\Foxy\FoxyBackend\dao\SupplierDAO.class
+com\Foxy\FoxyBackend\dao\ProductDAO.class
+com\Foxy\FoxyBackend\MyConfiguration.class
