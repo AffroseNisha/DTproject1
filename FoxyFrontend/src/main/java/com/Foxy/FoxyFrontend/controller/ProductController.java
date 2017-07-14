@@ -146,7 +146,15 @@ public class ProductController
 		
 		return "ProductPage";
 				
-	}	
+	}
+	@RequestMapping(value="/ProductDesc/{proid}")
+	public String showProductDesc(@PathVariable("proid") int proid,Model m)
+	{
+		Product product=productDAO.getProduct(proid);
+		m.addAttribute("prodinfo", product);
+		return "ProductDesc";
+	}
+	
 	}
 
 
