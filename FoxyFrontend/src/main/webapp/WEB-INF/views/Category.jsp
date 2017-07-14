@@ -13,11 +13,11 @@
 
 	<table align="center" cellspacing="2">
 		<tr>
-			<td colspan="2">Category Details</td>
+			<td colspan="2"><h3><i><b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Category Details</b></i></h3></td>
 			<c:if test="${flag}">
 			<input type="hidden" name="catid" value="${category.catid}"/>
 			</c:if>
-		</tr>
+		</tr><
 		<tr>
 			<td>Category Name</td>
 			<c:if test="${flag}">

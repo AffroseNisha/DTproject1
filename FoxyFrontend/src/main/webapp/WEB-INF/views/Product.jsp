@@ -28,7 +28,7 @@
 			</tr>		
 			<tr>
 				<td>Supplier</td>
-				<td><form:input path="suppid" /></td>
+				<td><form:input path="suppid"/></td>
 			</tr>
 			<tr>
 				<td>Price</td>

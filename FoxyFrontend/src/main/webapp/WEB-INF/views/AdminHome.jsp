@@ -4,9 +4,9 @@
 
 <%@include file="Header.jsp"%>
 <h2 align="center">Admin Home Page</h2>
-<a href="Category">Add Category</a> <br>
-<a href="Product">Add Product</a><br>
-<a href="Supplier">Add Supplier</a><br>
+<a href="Category"><h1><b>Add Category</b></h1></a> <br><br><br>
+<a href="Product"><h1><b>Add Product</b></h1></a><br><br><br>
+<a href="Supplier"><h1><b>Add Supplier</b></h1></a><br>
 
 
 </body>

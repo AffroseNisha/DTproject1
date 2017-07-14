@@ -20,7 +20,7 @@
     		                    </div><!--end .col-md-4-->
     		                    <div class="col-md-4 contact-email">
     		                        <h2>
-    		                            <a href="mailto:Foxyshopiee@gmail.com">foxyshopiee@gmail.com</a></h2>
+    		                            <a href="mailto:Foxyshopiee@gmail.com">afranishuma@gmail.com</a></h2>
     		                    </div>
     		                    </div>
     		                    </div>

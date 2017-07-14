@@ -28,28 +28,24 @@
     					<h2 style="color : white; font-family:Calligrapher;">Register Here</h2><br>
     					
     					
-						
-					<input type="text" name="username" placeholder="username" autofocus="autofocus" style="border-radius : 10px; padding : 5px" >
+    					
+    					<input type="text" name="custname" placeholder="yourname"pattern="[A-Z][A-za-z\s]{3,15}" title="first letter should be in capss" required autofocus="autofocus" style="border-radius : 10px; padding : 5px" >
     					<br/><br/>
 						
-						<input type="text" name="custname" placeholder="yourname" autofocus="autofocus" style="border-radius : 10px; padding : 5px" >
+					<input type="text" name="username" placeholder="username"parrern="[a-z][0-9]" required autofocus="autofocus" style="border-radius : 10px; padding : 5px" >
     					<br/><br/>
 						
-						
-						
-						
-	<input type="email" name="email" placeholder="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" title="Eg:afra@abc.zzz" autofocus="autofocus" style="border-radius : 10px; padding : 5px" >
+				<input type="text" name="password" placeholder="password" minlenght="6" maxlenght="15" title="5-15 character needed" required  style="border-radius : 10px;padding : 5px" ><br><br>
+		
+	<input type="email" name="email" placeholder="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" title="Eg:afra@abc.zzz" required autofocus="autofocus" style="border-radius : 10px; padding : 5px" >
+    					<br/><br/>
+    					<input type="text" name="mobile" placeholder="mobile" pattern="[789][0-9]{9}" title="give ur proper contact number"autofocus="autofocus" style="border-radius : 10px; padding : 5px" >
     					<br/><br/>
     					
-    					
-<input type="text" name="mobile" placeholder="mobile" autofocus="autofocus" style="border-radius : 10px; padding : 5px" >
-    					<br/><br/>
-    					
-<input type="text" name="address" placeholder="address" autofocus="autofocus" style="border-radius : 10px; padding : 5px" >
+<input type="text" name="address" placeholder="address" required autofocus="autofocus" style="border-radius : 10px; padding : 5px" >
     	                    <br/><br/>
     	                    
-<input type="text" name="password" placeholder="password" minlenght="6" maxlenght="15" title="5-15 character needed" required  style="border-radius : 10px;padding : 5px" ><br><br>
-<br/><br/>
+
 
     					
     					

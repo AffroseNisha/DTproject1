@@ -8,18 +8,17 @@
 <body style="background-color:#cc00ff">
 <header class="bg-deepblue" id="headerArea" role="navigation">
   <div class="container-fluid">
-    <nav class="navbar-header"> <a class="navbar-brand"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAkcCxkuo6lBXVsenTvBLnReGFEwDJ9uZXEY70YqNat32tE5JS" alt="" style="width:50%" ></a>
+    <nav class="navbar-header"> <a class="navbar-brand"> <img src="https://tse2.mm.bing.net/th?id=OIP.OZO_C5LXCg7Ir7O2rtjwtAD2BS&pid=15.1&P=0&w=246&h=82" alt="" style="width:50%" ></a>
 	
-   <br>
-  <div class="container"> <span class="row pull-right charterTitle"> <h1><i><b>Fashion at Its Finest</b></i></h1> </span> </div>
+   
+  <br>
+  <br>
+   <h1><i><b>Fashion at Its Finest</b></i></h1> </span> </div>
   <br>
   <br>
   <div class="container">
 	<div class="row">
-	
 		
-                            
-								
 								</div>
 								</div>
 </div>								
